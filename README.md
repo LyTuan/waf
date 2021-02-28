@@ -33,9 +33,10 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 
 	Install all packages that are required to compile Nginx and ModSecurity with apt command below:
 	
-        ```apt-get install git build-essential libpcre3 libpcre3-dev libssl-dev libtool autoconf apache2-prefork-dev libxml2-dev libcurl4-openssl-dev```
+        ```
+		apt-get install git build-essential libpcre3 libpcre3-dev libssl-dev libtool autoconf apache2-prefork-dev libxml2-dev libcurl4-openssl-dev
+	```
 
-	
 	3. Download ModSecurity and Nginx
 
 	Go to directory "/usr/src/", then clone the ModSecurity repository from  Github:
@@ -44,7 +45,8 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 		git clone https://github.com/SpiderLabs/ModSecurity.git modsecurity
         ```
 	
-	Download Nginx with the wget command, I will use the Nginx stable version 1.8 here. If you want to use another version, please go to Nginx download page to get a list of all available releases.
+	Download Nginx with the wget command
+	I will use the Nginx stable version 1.8 here. If you want to use another version, please go to Nginx download page to get a list of all available releases.
         
 	```
 		wget http://nginx.org/download/nginx-1.8.0.tar.gz
@@ -85,8 +87,9 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 
 	When the make install command is finished, you can see that Nginx is installed in the "/usr/local/nginx" directory:
 
-	cd /usr/local/nginx/
+	
         ```
+	cd /usr/local/nginx/
 	ll
 	drwxr-xr-x  2 root root 4096 Oct  3 07:21 conf/
 	drwxr-xr-x  2 root root 4096 Oct  3 07:21 html/
