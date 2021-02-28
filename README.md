@@ -55,8 +55,9 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 
 	Now it's time to install ModSecurity, please go to the /usr/src/modsecurity directory:
 
+	```
 	cd /usr/src/modsecurity/
-
+        ```
 	And compile ModSecurity as standalone module on your server, so we can include it to the Nginx:
 
 	./autogen.sh
