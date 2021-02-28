@@ -14,9 +14,9 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 
 * Configuration
 	All commands below have to be executed as root. Run:
-
+        ```
 	sudo -i
-
+        ```
 	to become root user on your server.
 
 	1. Update System and Repository
