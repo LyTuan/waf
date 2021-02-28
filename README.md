@@ -1,14 +1,11 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
-
 * Quick summary
 Modsecurity is a web application firewall. It has developed with annormaly method and set up such a module of Nginx Proxy Server.
 * Version
 1.0
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
@@ -78,12 +75,13 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 	When the make install command is finished, you can see that Nginx is installed in the "/usr/local/nginx" directory:
 
 	cd /usr/local/nginx/
-
+        ```
 	ll
 	drwxr-xr-x  2 root root 4096 Oct  3 07:21 conf/
 	drwxr-xr-x  2 root root 4096 Oct  3 07:21 html/
 	drwxr-xr-x  2 root root 4096 Oct  3 07:21 logs/
 	drwxr-xr-x  2 root root 4096 Oct  3 07:21 sbin/
+	```
 	5. Configure Nginx
 
 	Edit the nginx configuration file with vi/vim and configure nginx to run under the user "www-data".
@@ -98,16 +96,17 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 	Save and Exit.
 
 	Create a symlink for the nginx binary so we can use the command "nginx" by directly.
-
+        ```
 	ln -s /usr/local/nginx/sbin/nginx /bin/nginx
-
-	Next we will create a systemd script for Nginx that is used to start / stop the Nginx daemon. Please go to the directory "/lib/systemd/system/" and create a new file "nginx.service" with vi:
-
+        ```
+	
+	Next we will create a systemd script for Nginx that is used to start / stop the Nginx daemon. Please go to the directory "/lib/systemd/system/" and create a new file             "nginx.service" with vi:
+        ```
 	cd /lib/systemd/system/
 	vi nginx.service
-
+        ```
 	Paste the script below:
-
+         
 	[Service]
 	Type=forking
 	ExecStartPre=/usr/local/nginx/sbin/nginx -t -c /usr/local/nginx/conf/nginx.conf
