@@ -2,15 +2,15 @@
 
 
 ### What is this repository for? ###
+
 * Quick summary
+
 Modsecurity is a web application firewall. It has developed with annormaly method and set up such a module of Nginx Proxy Server.
+
 * Version
 1.0
 
 ### How do I get set up? ###
-
-* Summary of set up
-
 
 * Configuration
 	All commands below have to be executed as root. Run:
@@ -23,9 +23,10 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 
 	Before you start to install all dependencies, please update your system:
         
+	
 	```
-	apt-get update
-	apt-get upgrade
+		apt-get update
+		apt-get upgrade
 	```
 	
 	2. Install the build dependencies
@@ -33,7 +34,7 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 	Install all packages that are required to compile Nginx and ModSecurity with apt command below:
 	
         ```
-	apt-get install git build-essential libpcre3 libpcre3-dev libssl-dev libtool autoconf apache2-prefork-dev libxml2-dev libcurl4-openssl-dev
+		apt-get install git build-essential libpcre3 libpcre3-dev libssl-dev libtool autoconf apache2-prefork-dev libxml2-dev libcurl4-openssl-dev
 	```
 	
 	3. Download ModSecurity and Nginx
@@ -41,14 +42,14 @@ Modsecurity is a web application firewall. It has developed with annormaly metho
 	Go to directory "/usr/src/", then clone the ModSecurity repository from  Github:
 
         ```
-	cd /usr/src/
-	git clone https://github.com/SpiderLabs/ModSecurity.git modsecurity
+		cd /usr/src/
+		git clone https://github.com/SpiderLabs/ModSecurity.git modsecurity
         ```
 	
 	Download Nginx with the wget command, I will use the Nginx stable version 1.8 here. If you want to use another version, please go to Nginx download page to get a list of all available releases.
         
 	```
-	wget http://nginx.org/download/nginx-1.8.0.tar.gz
+		wget http://nginx.org/download/nginx-1.8.0.tar.gz
 	```
 	
 	4. Install ModSecurity and Nginx
