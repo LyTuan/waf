@@ -1,0 +1,4 @@
+../apache2/standalone_la-msc_lua.lo: ../apache2/msc_lua.c \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

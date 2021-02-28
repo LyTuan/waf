@@ -1,0 +1,2374 @@
+{
+    "GET/tienda1/miembros/index.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/global/menum.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/imagenes/nuestratierra.jpg-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/global/creditos.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/caracteristicas.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "id": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 1
+        }
+    }, 
+    "GET/tienda1/miembros/editar.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "apellidos": {
+            "threshold": 0.16, 
+            "variance": 16, 
+            "mean": 13
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "ciudad": {
+            "threshold": 0.16, 
+            "variance": 37, 
+            "mean": 13
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "cp": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "provincia": {
+            "threshold": 0.16, 
+            "variance": 7, 
+            "mean": 8
+        }, 
+        "dni": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "direccion": {
+            "threshold": 0.16, 
+            "variance": 73, 
+            "mean": 26
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "nombre": {
+            "threshold": 0.16, 
+            "variance": 7, 
+            "mean": 6
+        }, 
+        "email": {
+            "threshold": 0.16, 
+            "variance": 50, 
+            "mean": 27
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "ntc": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 16
+        }, 
+        "password": {
+            "threshold": 0.16, 
+            "variance": 8, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "login": {
+            "threshold": 0.16, 
+            "variance": 2, 
+            "mean": 6
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/miembros/imagenes/zarauz.jpg-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "POST/tienda1/miembros/editar.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 3
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "apellidos": {
+            "threshold": 0.16, 
+            "variance": 16, 
+            "mean": 13
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "ciudad": {
+            "threshold": 0.16, 
+            "variance": 37, 
+            "mean": 13
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "cp": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "provincia": {
+            "threshold": 0.16, 
+            "variance": 7, 
+            "mean": 8
+        }, 
+        "dni": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "direccion": {
+            "threshold": 0.16, 
+            "variance": 73, 
+            "mean": 26
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "nombre": {
+            "threshold": 0.16, 
+            "variance": 7, 
+            "mean": 6
+        }, 
+        "email": {
+            "threshold": 0.16, 
+            "variance": 50, 
+            "mean": 27
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "ntc": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 16
+        }, 
+        "password": {
+            "threshold": 0.16, 
+            "variance": 8, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "login": {
+            "threshold": 0.16, 
+            "variance": 2, 
+            "mean": 6
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/miembros/imagenes/ogono.jpg-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/pagar.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "precio": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 3
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 6, 
+            "mean": 11
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/registro.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "apellidos": {
+            "threshold": 0.16, 
+            "variance": 17, 
+            "mean": 13
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "ciudad": {
+            "threshold": 0.16, 
+            "variance": 47, 
+            "mean": 12
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "cp": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "provincia": {
+            "threshold": 0.16, 
+            "variance": 1, 
+            "mean": 7
+        }, 
+        "dni": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "direccion": {
+            "threshold": 0.16, 
+            "variance": 48, 
+            "mean": 24
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "nombre": {
+            "threshold": 0.16, 
+            "variance": 4, 
+            "mean": 6
+        }, 
+        "email": {
+            "threshold": 0.16, 
+            "variance": 38, 
+            "mean": 27
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "ntc": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 16
+        }, 
+        "password": {
+            "threshold": 0.16, 
+            "variance": 9, 
+            "mean": 8
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "login": {
+            "threshold": 0.16, 
+            "variance": 2, 
+            "mean": 6
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "POST/tienda1/publico/vaciar.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "B2": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 14
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }
+    }, 
+    "POST/tienda1/publico/caracteristicas.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 1
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }, 
+        "id": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 1
+        }
+    }, 
+    "GET/tienda1/publico/miembros.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/entrar.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "errorMsg": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 24
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/miembros/imagenes/castro.jpg-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/autenticar.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "remember": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 6
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "login": {
+            "threshold": 0.16, 
+            "variance": 2, 
+            "mean": 6
+        }, 
+        "pwd": {
+            "threshold": 0.16, 
+            "variance": 8, 
+            "mean": 9
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 6
+        }
+    }, 
+    "GET/tienda1/global/titulo.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/vaciar.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "B2": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 14
+        }
+    }, 
+    "GET/tienda1/imagenes/2.gif-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/imagenes/1.gif-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/carrito.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/global/estilos.css-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/imagenes/3.gif-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "POST/tienda1/publico/entrar.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "errorMsg": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 24
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }
+    }, 
+    "GET/tienda1/publico/productos.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/imagenes/cmenbul.gif-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "POST/tienda1/publico/anadir.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "cantidad": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 1
+        }, 
+        "precio": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 19
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "nombre": {
+            "threshold": 0.16, 
+            "variance": 9, 
+            "mean": 13
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }, 
+        "id": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 1
+        }
+    }, 
+    "POST/tienda1/publico/autenticar.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "remember": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "pwd": {
+            "threshold": 0.16, 
+            "variance": 8, 
+            "mean": 9
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 6
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "login": {
+            "threshold": 0.16, 
+            "variance": 2, 
+            "mean": 6
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 6
+        }
+    }, 
+    "POST/tienda1/publico/pagar.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "precio": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 3
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 6, 
+            "mean": 11
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/index.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/publico/anadir.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "cantidad": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 1
+        }, 
+        "precio": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 19
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "nombre": {
+            "threshold": 0.16, 
+            "variance": 9, 
+            "mean": 13
+        }, 
+        "id": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 1
+        }
+    }, 
+    "GET/tienda1/imagenes/logo.gif-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/miembros/salir.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "POST/tienda1/publico/registro.jsp-LengthModel": {
+        "Content-Length": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 3
+        }, 
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "apellidos": {
+            "threshold": 0.16, 
+            "variance": 17, 
+            "mean": 13
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "ciudad": {
+            "threshold": 0.16, 
+            "variance": 47, 
+            "mean": 12
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "cp": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "provincia": {
+            "threshold": 0.16, 
+            "variance": 1, 
+            "mean": 7
+        }, 
+        "dni": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "direccion": {
+            "threshold": 0.16, 
+            "variance": 48, 
+            "mean": 24
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "nombre": {
+            "threshold": 0.16, 
+            "variance": 4, 
+            "mean": 6
+        }, 
+        "email": {
+            "threshold": 0.16, 
+            "variance": 38, 
+            "mean": 27
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "ntc": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 16
+        }, 
+        "password": {
+            "threshold": 0.16, 
+            "variance": 9, 
+            "mean": 8
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "B1": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "login": {
+            "threshold": 0.16, 
+            "variance": 2, 
+            "mean": 6
+        }, 
+        "Content-Type": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 33
+        }, 
+        "modo": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }, 
+    "GET/tienda1/miembros/fotos.jsp-LengthModel": {
+        "Accept-Language": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 2
+        }, 
+        "Accept-Encoding": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 32
+        }, 
+        "Host": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 9
+        }, 
+        "Accept": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 99
+        }, 
+        "User-Agent": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 71
+        }, 
+        "Accept-Charset": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 27
+        }, 
+        "Connection": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 5
+        }, 
+        "Cookie": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 43
+        }, 
+        "Pragma": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }, 
+        "Cache-control": {
+            "threshold": 0.16, 
+            "variance": 0, 
+            "mean": 8
+        }
+    }
+}

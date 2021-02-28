@@ -1,0 +1,21 @@
+{
+	"GET/mutillidae/index.php" : {
+		"Host" : {"metric": "length","mean" : 5.0,"variance" : 2.0,"threshold" : 0.16},
+		"User-Agent" : {"metric": "length","mean" : 76.0,"variance" : 0.0,"threshold" : 0.16},
+		"Accept" : {"metric": "length","mean" : 63.0,"variance" : 0.0,"threshold" : 0.16},
+		"Accept-Language" : {"metric": "length","mean" : 14.0,"variance" : 0.0,"threshold" : 0.16},
+		"Accept-Encoding" : {"metric": "length","mean" : 13.0,"variance" : 0.0,"threshold" : 0.16},
+		"Cookie": {"metric": "length","mean" : 49.0,"variance" : 0.0,"threshold" : 0.16},
+		"Connection" : {"metric": "length","mean" :10.0,"variance" : 0.0,"threshold" : 0.16}
+	},
+	"GET/mutillidae/index.php" : {
+		"Host" : {"metric": "length","mean" : 9.0,"variance" : 3.0,"threshold" : 0.16},
+		"User-Agent" : {"metric": "length","mean" : 76.0,"variance" : 2.0,"threshold" : 0.16},
+		"Accept" : {"metric": "length","mean" : 63.0,"variance" : 0.0,"threshold" : 0.16},
+		"Accept-Language" : {"metric": "length","mean" : 14.0,"variance" : 0.0,"threshold" : 0.16},
+		"Accept-Encoding" : {"metric": "length","mean" : 13.0,"variance" : 0.0,"threshold" : 0.16},
+		"Cookie": {"metric": "length","mean" : 49.0,"variance" : 2.0,"threshold" : 0.16},
+		"Connection" : {"metric": "length","mean" :10.0,"variance" : 0.0,"threshold" : 0.16},
+		"page":{"metric": "length","mean" :9.0,"variance" : 0.0,"threshold" : 0.16}
+	}
+}
